@@ -1,0 +1,1 @@
+en este archivo de notas internas se manejan los datos de dependencias.
